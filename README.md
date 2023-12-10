@@ -37,13 +37,13 @@
 <br>
 
 <div align="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shaikat1&theme=dark&border=FFFFFF&ring=39DEEB&currStreakLabel=39DEEB"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikat1&theme=graywhite&hide_border=false"/>
 </div><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaikat1&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shaikat1&theme=graywhite&show_icons=true&hide_border=false&count_private=true"/>
 </div><br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat1&theme=graywhite&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <br>
 <br>
@@ -58,8 +58,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+--->
